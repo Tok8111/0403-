@@ -3,5 +3,5 @@ public class Main {
         System.out.println("Hello, World!");
     }
     //お邪魔しました
-    //フォークの練習 
+    //フォークからのブランチ作成の練習 
 }
