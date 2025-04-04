@@ -5,5 +5,6 @@ public class Main {
     //お邪魔しました
     //フォークからのブランチ作成の練習 
 
-    //失礼いたします
+        System.out.println("Good Night!");
+    } 
 }
